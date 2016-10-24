@@ -15,4 +15,8 @@
 ### 运行截图
 
 ![cmd-markdown-logo](https://www.zybuluo.com/static/img/logo.png)
+![截图1](./img/1.png)
+![截图2](./img/2.png)
+![截图3](./img/3.png)
+![截图4](./img/4.png)
 
