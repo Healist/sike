@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="3"
+    android:orientation="horizontal"
+    android:padding="15dip"
+    android:rowCount="4">
+    
+    <com.sike.tool.MyImageButton
+        android:id="@+id/num_0"
+        android:layout_width="90dip"
+        android:layout_height="90dip"
+        android:layout_marginLeft="16dip"
+        android:layout_marginTop="16dip"
+        style="@style/BigTextSizeTheme"
+        android:background="@drawable/com" />
+
+    <com.sike.tool.MyImageButton
+        android:id="@+id/num_1"
+        android:layout_width="90dip"
+        android:layout_height="90dip"
+        android:layout_marginLeft="16dip"
+        android:layout_marginTop="16dip"
+        style="@style/BigTextSizeTheme"
+        android:background="@drawable/ruan" />
+
+    <com.sike.tool.MyImageButton
+        android:id="@+id/num_2"
+        android:layout_width="90dip"
+        android:layout_height="90dip"
+        android:layout_marginLeft="16dip"
+        android:layout_marginTop="16dip"
+        style="@style/BigTextSizeTheme"
+        android:background="@drawable/info" />
+
+    <com.sike.tool.MyImageButton
+        android:id="@+id/num_3"
+        android:layout_width="90dip"
+        android:layout_height="90dip"
+        android:layout_marginLeft="16dip"
+        android:layout_marginTop="16dip"
+        style="@style/BigTextSizeTheme"
+        android:background="@drawable/safe" />
+
+    <com.sike.tool.MyImageButton
+        android:id="@+id/num_4"
+        android:layout_width="90dip"
+        android:layout_height="90dip"
+        android:layout_marginLeft="16dip"
+        android:layout_marginTop="16dip"
+        style="@style/BigTextSizeTheme"
+        android:background="@drawable/dianzi" />
+
+    <com.sike.tool.MyImageButton
+        android:id="@+id/num_5"
+        android:layout_width="90dip"
+        android:layout_height="90dip"
+        android:layout_marginLeft="16dip"
+        android:layout_marginTop="16dip"
+        style="@style/BigTextSizeTheme"
+        android:background="@drawable/wdz" />
+    　　
+
+    <com.sike.tool.MyImageButton
+        android:id="@+id/num_6"
+        android:layout_width="90dip"
+        android:layout_height="90dip"
+        android:layout_marginLeft="16dip"
+        android:layout_marginTop="16dip"
+        style="@style/BigTextSizeTheme"
+        android:background="@drawable/shuzi" />
+
+    <com.sike.tool.MyImageButton
+        android:id="@+id/num_7"
+        android:layout_width="90dip"
+        android:layout_height="90dip"
+        android:layout_marginTop="16dip"
+        android:layout_marginLeft="16dip"
+        style="@style/BigTextSizeTheme"
+        android:background="@drawable/qianru" />
+
+    <com.sike.tool.MyImageButton
+        android:id="@+id/num_8"
+        android:layout_width="90dip"
+        android:layout_height="90dip"
+        android:layout_marginLeft="16dip"
+        android:layout_marginTop="16dip"
+        style="@style/BigTextSizeTheme"
+        android:background="@drawable/wulian" />
+
+    <com.sike.tool.MyImageButton
+        android:id="@+id/num_9"
+        android:layout_width="90dip"
+        android:layout_height="90dip"
+        android:layout_marginLeft="16dip"
+        android:layout_marginTop="16dip"
+        style="@style/BigTextSizeTheme"
+        android:background="@drawable/shuzi" />
+
+    <com.sike.tool.MyImageButton
+        android:id="@+id/num_10"
+        android:layout_width="90dip"
+        android:layout_height="90dip"
+        android:layout_marginLeft="16dip"
+        android:layout_marginTop="16dip"
+        style="@style/BigTextSizeTheme"
+        android:background="@drawable/qianru" />
+
+    <com.sike.tool.MyImageButton
+        android:id="@+id/num_11"
+        android:layout_width="90dip"
+        android:layout_height="90dip"
+        android:layout_marginLeft="16dip"
+        android:layout_marginTop="16dip"
+        style="@style/BigTextSizeTheme"
+        android:background="@drawable/wulian" />
+
+</GridLayout>
